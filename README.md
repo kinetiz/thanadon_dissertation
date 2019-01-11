@@ -13,21 +13,17 @@ This is Thanadon's Dissertation - Msc Data Science 2017-2018, University of Sout
 
 ![3](overviewnetwork.png)
 
-## Strength of relationship between cryptocurrencies and communities
+## Strength of relationship between cryptocurrencies and communities - This show "How likely that coin X will be mentioned in topic Y ?"
 
-This show "How likely that coin X will be mentioned in topic Y ?"
+
 
 ![4](commuanalysis.png)
 
-## Correlation Analysis of user preference over each cryptocurrency
-
-This show "If users like a specific coin, which other coins they’re likely to like?"
+## Correlation Analysis of user preference over each cryptocurrency - This show "If users like a specific coin, which other coins they’re likely to like?"
 
 ![5](correlation-analysis.png)
 
-## Homophily analysis
-
-This show "If users like a specific coin, how likely their friends will also like it?"
+## Homophily analysis - This show "If users like a specific coin, how likely their friends will also like it?"
 
 ![6](homophilly.png)
 
